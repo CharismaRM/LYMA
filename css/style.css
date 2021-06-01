@@ -1266,7 +1266,6 @@ footer {
       -ms-flex-pack: center;
           justify-content: center;
   margin: 0px 0px 10px 0px;
-	color:red;
 }
 
 .quest-content {
@@ -1291,6 +1290,8 @@ footer {
   line-height: 113.15789%;
   text-transform: uppercase;
   margin: 0px 0px 32px 0px;
+		color:red;
+
 }
 
 .quest-content__text {
@@ -1299,6 +1300,8 @@ footer {
   text-align: center;
   line-height: 156.25%;
   font-family: Montserrat;
+		color:red;
+
 }
 
 ._no-webp .innovation{
