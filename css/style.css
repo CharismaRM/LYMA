@@ -1252,7 +1252,7 @@ footer {
   background: url("../img/bg_sup.jpg") center/cover no-repeat; }
 
 ._no-webp .quest{
-  background: url("../img/bg_qe.jpg") center/cover no-repeat fixed; }
+  background: url("../img/bg_qe.jpg") center/cover no-repeat ; }
 
 .quest {
   min-height: 100vh;
